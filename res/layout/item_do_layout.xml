@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#99d6d6"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/tvBUYERCOM"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#7f3300"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tvBUYERDIV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#7f3300"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tvSELLER"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#7f3300"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tvDONO"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#7f3300" />
+
+    <TextView
+        android:id="@+id/tvDONOSEQ"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#7f3300" />
+
+    <TextView
+        android:id="@+id/tvPONO"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#7f3300" />
+
+    <TextView
+        android:id="@+id/tvPONOSEQ"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#7f3300" />
+
+    <TextView
+        android:id="@+id/tvITEMCODE"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#7f3300"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tvQUANTITY"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#7f3300"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tvPROCESSTYPE"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#7f3300" />
+
+    <TextView
+        android:id="@+id/tvWORKNO"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#7f3300" />
+
+</LinearLayout>
